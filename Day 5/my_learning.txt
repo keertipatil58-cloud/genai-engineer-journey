@@ -1,0 +1,2 @@
+I am learning Python.
+My goal is to become a GenAI Engineer.
