@@ -1,22 +1,51 @@
-# GenAI Engineer Journey 🚀
+# Day 1 – Introduction to GenAI and Python Basics
 
-I am a Computer Science Engineering graduate learning
-Generative AI and building practical projects.
+## 📌 Overview
 
-## Day 1 - Introduction to GenAI
+Started my GenAI Engineer learning journey by understanding the basics of Generative AI and Python programming.
 
-### Topics Learned
-- Generative AI
-- Large Language Models (LLMs)
-- Tokens
-- Python input()
-- Python print()
-- Variables
-- f-strings
+## 📚 Topics Covered
 
-### Project
-Created my first Python program that collects user
-information and displays a personalized message.
+### 1. Introduction to Generative AI
+- What is Artificial Intelligence?
+- What is Generative AI?
+- What are Large Language Models (LLMs)?
+- Basic understanding of tokens.
+- How GenAI applications work.
 
-## Goal
-Become a job-ready GenAI Engineer by building real projects.
+### 2. Python Basics
+- Introduction to Python.
+- Using `print()`.
+- Taking user input using `input()`.
+- Understanding variables.
+- Working with strings.
+- Using f-strings.
+
+## 💻 Practical Programs
+
+Created beginner-level Python programs to:
+- Accept the user's name.
+- Ask which programming language they know.
+- Ask which AI skill they want to learn.
+- Display personalized messages using Python.
+
+## 🛠️ Technologies Used
+- Python
+- VS Code
+- Git
+- GitHub
+
+## 🎯 What I Learned
+- Basic understanding of Generative AI.
+- Introduction to LLMs and tokens.
+- How to write basic Python programs.
+- How to accept user input and display output.
+- How to use variables and f-strings.
+
+## 🤖 Learning Goal
+
+Build a strong Python foundation before moving towards advanced Generative AI concepts and projects.
+
+## 📈 Learning Progress
+
+**Day 1: Completed ✅**
