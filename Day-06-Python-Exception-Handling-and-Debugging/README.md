@@ -1,82 +1,29 @@
 # Day 6 – Python Exception Handling and Debugging
 
-## 📌 Overview
+## 🎯 Learning Objectives
 
-On Day 6 of my GenAI Engineer learning journey, I learned how to handle errors in Python using exception handling and how to identify and fix errors through debugging.
+Today I learned how to handle errors in Python using exception handling. I also practised debugging and writing programs that do not crash when users enter invalid input.
 
 ## 📚 Topics Covered
 
-### 1. Exception Handling
-- What is exception handling?
-- Understanding `try` and `except`.
-- Using `else` and `finally`.
-- Handling unexpected errors safely.
+### 1. What is Exception Handling?
+- Meaning of exceptions
+- Why exception handling is important
+- How to prevent programs from crashing
 
-### 2. Common Python Errors
+### 2. Python Exception Handling Keywords
+- `try` – Contains code that may produce an error.
+- `except` – Handles the error.
+- `else` – Executes when no exception occurs.
+- `finally` – Executes whether an exception occurs or not.
+
+### 3. Common Python Errors
 
 | Error | Meaning |
 |---|---|
-| `ValueError` | Invalid value |
-| `TypeError` | Inappropriate data type for an operation |
-| `NameError` | Variable not defined |
-| `ZeroDivisionError` | Division by zero |
-| `IndexError` | Invalid list index |
-| `KeyError` | Dictionary key not found |
-| `FileNotFoundError` | Requested file doesn't exist |
-
-### 3. Debugging
-- What is debugging?
-- Identifying errors in Python programs.
-- Understanding error messages.
-- Finding and correcting mistakes in code.
-- Using print statements to check variable values.
-
-## 💻 Practical Project: Safe Calculator
-
-Created a Python program called `day6_safe_calculator.py`.
-
-### Project Features
-- Accepts two numbers from the user.
-- Supports addition, subtraction, multiplication and division.
-- Uses conditional statements to select operations.
-- Handles division-by-zero errors.
-- Handles invalid numerical inputs.
-- Displays appropriate messages for invalid operations.
-
-### Python Concepts Used
-- `try`
-- `except`
-- `else`
-- `finally`
-- `if`, `elif`, `else`
-- `float()`
-- `input()`
-- `print()`
-
-## 🛠️ Technologies Used
-- Python
-- VS Code
-
-## 🎯 What I Learned
-- How to handle errors without unexpectedly stopping a program.
-- Difference between `try` and `except`.
-- Purpose of the `finally` block.
-- Difference between `ValueError` and `TypeError`.
-- How to identify and fix programming errors.
-- How to build safer Python applications.
-
-## 🤖 Connection to GenAI
-
-Exception handling is important when developing GenAI applications because unexpected errors can occur while:
-
-- Connecting to AI model APIs.
-- Processing user prompts.
-- Reading PDF and text documents.
-- Handling invalid user inputs.
-- Managing network and API failures.
-
-It helps make AI applications more reliable and user-friendly.
-
-## 📈 Learning Progress
-
-**Day 6: Completed ✅**
+| ValueError | Invalid value |
+| TypeError | Incorrect data type for an operation |
+| NameError | Variable is not defined |
+| ZeroDivisionError | Dividing by zero |
+| IndexError | Accessing an invalid list index |
+| KeyError | Accessing a missing dictionary key |
