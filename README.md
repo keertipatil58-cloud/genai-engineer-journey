@@ -1,51 +1,86 @@
 # 🚀 My GenAI Engineer Journey
 
-Welcome to my GenAI Engineer learning journey!
+Welcome to my **GenAI Engineer Journey**! 
 
-I am a Computer Science Engineering graduate working towards becoming a Generative AI Engineer.
+I am a Computer Science Engineering graduate working towards becoming a Generative AI Engineer. This repository documents my daily learning, practical coding exercises, projects, and progress as I build my skills from Python fundamentals to Generative AI applications.
 
-My goal is to learn Python, Generative AI, Large Language Models (LLMs), Prompt Engineering, RAG, AI Agents and other important technologies through practical learning and real-world projects.
+## 🎯 My Goal
 
-I am documenting my daily learning progress, coding exercises, assignments and projects in this repository.
+To develop strong practical skills in Generative AI, build real-world AI projects, and become job-ready as a GenAI Engineer.
 
-## 🎯 Learning Goals
-
-- Strengthen Python programming skills.
-- Understand Generative AI and Large Language Models.
-- Learn Prompt Engineering.
-- Understand APIs and JSON.
-- Learn Embeddings and Vector Databases.
-- Build Retrieval-Augmented Generation (RAG) applications.
-- Develop AI-powered applications.
-- Build a strong GitHub portfolio.
-
-## 📚 Daily Learning Progress
-
-| Day | Topics Covered | Status |
-|---|---|---|
-| Day 01 | Introduction to GenAI and Python Basics | ✅ Completed |
-| Day 02 | Python Data Types, Strings, Lists and Dictionaries | ✅ Completed |
-| Day 03 | Python Conditional Statements and Loops | ✅ Completed |
-| Day 04 | Python Functions, Parameters and Return | ✅ Completed |
-| Day 05 | Python Modules, Imports and File Handling | ✅ Completed |
-| Day 06 | Python Exception Handling and Debugging | ✅ Completed |
-| Day 07 | Python Object-Oriented Programming (OOP) | ⏳ Upcoming |
-
-## 🛠️ Technologies
+## 🛠️ Technologies and Skills
 
 - Python
-- Visual Studio Code
-- Git
-- GitHub
+- Git and GitHub
+- Generative AI Fundamentals
+- Prompt Engineering
+- APIs and REST APIs
+- Large Language Models (LLMs)
+- Embeddings and Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- FastAPI
+- AI Agents
 
-## 💻 Practical Learning
+*This list will be updated as I learn and practise each technology.*
 
-Throughout this journey, I am working on practical Python programs and mini-projects to improve my programming and problem-solving skills.
+## 📅 Daily Learning Progress
+
+| Day | Topics | Status |
+|---|---|---|
+| Day 1 | Introduction to GenAI and Python Basics | ✅ Completed |
+| Day 2 | Python Data Types, Strings, Lists and Dictionaries | ✅ Completed |
+| Day 3 | Python Conditionals and Loops | ✅ Completed |
+| Day 4 | Python Functions | ✅ Completed |
+| Day 5 | Python Modules and File Handling | ✅ Completed |
+| Day 6 | Python Exception Handling and Debugging | ✅ Completed |
+| Day 7 | Object-Oriented Programming (OOP) | ⏳ Upcoming |
+
+## 📂 Repository Structure
+
+```text
+genai-engineer-journey/
+│
+├── Day-01-Introduction-to-GenAI-and-Python-Basics/
+├── Day-02-Python-Data-Types-Strings-Lists-Dictionaries/
+├── Day-03-Python-Conditionals-and-Loops/
+├── Day-04-Python-Functions/
+├── Day-05-Python-Modules-and-File-Handling/
+├── Day-06-Python-Exception-Handling-and-Debugging/
+│
+└── README.md
+```
+
+Each day's folder contains learning notes, Python programs, practical exercises, and a README explaining the concepts covered.
+
+## 💡 Learning Approach
+
+- Learn concepts from the basics.
+- Practise Python coding every day.
+- Build small practical projects.
+- Upload my learning progress to GitHub.
+- Practise technical interview questions.
+- Gradually develop real-world GenAI applications.
+
+## 🚀 Upcoming Goals
+
+- Master Python fundamentals.
+- Learn APIs and backend development.
+- Understand LLMs and Prompt Engineering.
+- Work with embeddings and vector databases.
+- Build RAG-based applications.
+- Learn AI agents and tool calling.
+- Develop and deploy real-world GenAI projects.
 
 ## 📈 My Progress
 
-I believe in learning by doing. Every day, I practise coding, understand concepts, solve problems and upload my work to GitHub.
+**6 Days Completed – Learning and Building Every Day!**
 
-This repository represents my continuous learning journey towards becoming a GenAI Engineer.
+This journey is a continuous process of learning, practising, making mistakes, and improving.
 
-**One day at a time. One concept at a time. One project at a time!**
+---
+
+⭐ Thank you for visiting my repository!
+
+**Let's learn, build, and grow together!**
+```
