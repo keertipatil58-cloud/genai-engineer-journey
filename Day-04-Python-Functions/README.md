@@ -1,19 +1,34 @@
 # Day 4 – Python Functions
 
 ## 📌 Overview
-On Day 4 of my GenAI Engineer learning journey, I learned about Python functions and how to organize code into reusable blocks.
+
+On Day 4 of my GenAI Engineer learning journey, I learned how to create reusable blocks of code using Python functions. I also practised passing values to functions and returning results.
 
 ## 📚 Topics Covered
 
-- What are functions?
-- Creating functions using `def`
-- Calling functions
-- Parameters and arguments
-- Multiple parameters
-- `return` statement
-- Difference between `print()` and `return`
-- Default parameters
-- Functions with lists
+### 1. Introduction to Functions
+- What are Python functions?
+- Creating functions using `def`.
+- Calling functions.
+- Understanding reusable code.
+
+### 2. Parameters and Arguments
+- Understanding parameters.
+- Understanding arguments.
+- Passing multiple arguments to functions.
+
+### 3. Return Statement
+- Using the `return` statement.
+- Difference between `print()` and `return`.
+- Returning calculated values from functions.
+
+### 4. Default Parameters
+- Creating functions with default parameter values.
+- Understanding how default arguments work.
+
+### 5. Functions with Lists
+- Passing lists as function arguments.
+- Working with list data inside functions.
 
 ## 💻 Practical Project: My Skill Calculator
 
@@ -22,11 +37,11 @@ Created a Python program called `day4_my_skill_calculator.py`.
 ### Project Features
 - Accepts three numbers from the user.
 - Passes the numbers to a function.
-- Calculates their total.
-- Returns the result using the `return` statement.
-- Displays the final result.
+- Calculates the total using a function.
+- Returns the result using `return`.
+- Displays the final calculated result.
 
-### Code Example
+### Python Code
 
 ```python
 def calculate_total(num1, num2, num3):
@@ -46,19 +61,12 @@ print("Total:", total)
 - VS Code
 
 ## 🎯 What I Learned
-- How to create and call functions.
-- How to pass information using parameters and arguments.
+- How to create and call Python functions.
+- Difference between parameters and arguments.
 - How to return values from functions.
-- Why reusable functions make programs easier to maintain.
-- Difference between displaying a value and returning a value.
+- Difference between `print()` and `return`.
+- How functions make code reusable and organized.
 
 ## 🤖 Connection to GenAI
-Functions are important in GenAI applications because they help organize tasks such as:
-- Processing user prompts.
-- Calling AI models.
-- Processing API responses.
-- Handling document information.
-- Reusing code in AI applications.
 
-## 📈 Learning Progress
-**Day 4: Completed ✅**
+Functions are important in
