@@ -1,24 +1,32 @@
 # Day 3 – Python Conditional Statements and Loops
 
 ## 📌 Overview
-On Day 3 of my GenAI Engineer learning journey, I learned how to make decisions in Python using conditional statements and how to repeat tasks using loops.
+
+On Day 3 of my GenAI Engineer learning journey, I learned how to make decisions in Python using conditional statements and repeat tasks using loops.
 
 ## 📚 Topics Covered
 
-- `if`, `elif`, and `else` statements
-- Comparison operators:
-  - `==` Equal to
-  - `!=` Not equal to
-  - `>` Greater than
-  - `<` Less than
-  - `>=` Greater than or equal to
-  - `<=` Less than or equal to
-- Logical operators:
-  - `and`
-  - `or`
-  - `not`
-- `for` loops
-- `while` loops
+### 1. Conditional Statements
+- `if` statement
+- `elif` statement
+- `else` statement
+
+### 2. Comparison Operators
+- `==` Equal to
+- `!=` Not equal to
+- `>` Greater than
+- `<` Less than
+- `>=` Greater than or equal to
+- `<=` Less than or equal to
+
+### 3. Logical Operators
+- `and`
+- `or`
+- `not`
+
+### 4. Python Loops
+- `for` loop
+- `while` loop
 - `range()` function
 
 ## 💻 Practical Programs
@@ -30,26 +38,11 @@ Created a Python program to check job eligibility based on age and degree qualif
 Created a program that:
 - Accepts the user's name.
 - Takes the number of programming languages known.
-- Checks programming foundation using conditions.
-- Displays a list of programming skills.
+- Checks programming knowledge using conditional statements.
+- Displays programming skills using a `for` loop.
 - Calculates the total number of skills using `len()`.
 
 ### 3. Range Practice
 Practiced using `range()` to print numbers from 1 to 5.
 
-## 🛠️ Technologies Used
-- Python
-- VS Code
-
-## 🎯 What I Learned
-- How to make decisions using conditions.
-- How to combine conditions using logical operators.
-- How to repeat tasks using loops.
-- How to work with lists and the `len()` function.
-- How Python logic can be used in real-world applications.
-
-## 🤖 Connection to GenAI
-Conditional statements and loops are useful in GenAI applications for checking user inputs, processing multiple documents, handling responses, and controlling application workflows.
-
-## 📈 Learning Progress
-**Day 3: Completed ✅**
+## 🛠
